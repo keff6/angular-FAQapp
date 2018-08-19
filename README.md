@@ -1,5 +1,7 @@
 # FAQapp
-FAQapp is an application that helps you mage the creation an deleting of an array of questions and their answers.
+
+FAQapp is an application to manage the creation an deleting of an array of questions and their answers.
+A project to learn more about angular framework.
 
 ## Technologies
 
